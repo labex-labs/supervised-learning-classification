@@ -10,8 +10,8 @@ During this course, we will continue to learn another important application in s
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                 |
-|---------|----------------------------------------------------------|--------------|---------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                 |
+|---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------|
 |      01 | 📖 Logistic Regression Classification with Scikit-Lea... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20800'>Start Lab</a> |
 |      02 | 📖 K Nearest Neighbor Algorithm                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20796'>Start Lab</a> |
 |      03 | 📖 Probabilistic Classification with Naive Bayes         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20801'>Start Lab</a> |
