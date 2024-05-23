@@ -10,7 +10,7 @@ During this course, we will continue to learn another important application in s
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                 |
+|   Index | Name                                                    | Difficulty   | Practice                                                            |
 |---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------|
 |      01 | 📖 Logistic Regression Classification with Scikit-Lea... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20800'>Start Lab</a> |
 |      02 | 📖 K Nearest Neighbor Algorithm                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20796'>Start Lab</a> |
@@ -22,4 +22,9 @@ During this course, we will continue to learn another important application in s
 |      08 | 📖 Decision Tree Classification with Python              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20760'>Start Lab</a> |
 |      09 | 📖 Bagging and Boosting Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20749'>Start Lab</a> |
 |      10 | 📖 Quickly Select Models With Cross Validation           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20807'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
