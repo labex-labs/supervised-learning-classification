@@ -1,6 +1,6 @@
 # Supervised Learning: Classification
 
-![Supervised Learning: Classification](https://cover-creator.labex.io/supervised-learning-classification.png)
+![Supervised Learning: Classification](https://cover-creator.appbot.io/supervised-learning-classification.png)
 
 During this course, we will continue to learn another important application in supervised learning - solving classification problems. In the following lessons, you will be exposed to: logistic regression, K-nearest neighbor algorithm, naive Bayes, support vector machine, perceptron and artificial neural network, decision tree and random forest, and bagging and boosting methods. The course will start with the principle of each of these methods. You are supposed to fully understand the implementat
 
