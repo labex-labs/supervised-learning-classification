@@ -16,7 +16,7 @@ During this course, we will continue to learn another important application in s
 |      02 | 📖 K Nearest Neighbor Algorithm                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20796'>Start Lab</a> |
 |      03 | 📖 Probabilistic Classification with Naive Bayes         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20801'>Start Lab</a> |
 |      04 | 📖 Implementation of Gaussian Distribution Function a... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20786'>Start Lab</a> |
-|      05 | 📖 Support Vector Machines                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20812'>Start Lab</a> |
+|      05 | 📖 Nonlinear Pattern Recognition Techniques              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20812'>Start Lab</a> |
 |      06 | 📖 Perceptron and Artificial Neural Network              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20802'>Start Lab</a> |
 |      07 | 📖 Train Handwritten Digits Recognition Neural Networ... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20814'>Start Lab</a> |
 |      08 | 📖 Decision Tree Classification with Python              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20760'>Start Lab</a> |
