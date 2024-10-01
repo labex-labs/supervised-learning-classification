@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                           |
-|---------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Practice                                                                                                                           |
+|---------|---------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Logistic Regression Classification with Scikit-Lea... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-logistic-regression-classification-with-scikit-learn-20800'>Start Lab</a>   |
 |      02 | 📖 K Nearest Neighbor Algorithm                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-k-nearest-neighbor-algorithm-20796'>Start Lab</a>                           |
 |      03 | 📖 Probabilistic Classification with Naive Bayes         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-probabilistic-classification-with-naive-bayes-20801'>Start Lab</a>          |
@@ -37,7 +37,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      07 | 📖 Train Handwritten Digits Recognition Neural Networ... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-train-handwritten-digits-recognition-neural-network-20814'>Start Lab</a>    |
 |      08 | 📖 Decision Tree Classification with Python              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-decision-tree-classification-with-python-20760'>Start Lab</a>               |
 |      09 | 📖 Bagging and Boosting Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-bagging-and-boosting-method-20749'>Start Lab</a>                            |
-|      10 | 📖 Quickly Select Models With Cross Validation           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-quickly-select-models-with-cross-validation-20807'>Start Lab</a>            |
+|      10 | 📖 Quickly Select Models with Cross Validation           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-quickly-select-models-with-cross-validation-20807'>Start Lab</a>            |
 
 ## More
 
