@@ -1,6 +1,6 @@
 # Supervised Learning: Classification
 
-[![Supervised Learning: Classification](https://cover-creator.appbot.io/supervised-learning-classification.png)](https://labex.io/courses/supervised-learning-classification)
+[![Supervised Learning: Classification](https://cover-creator.labex.io/supervised-learning-classification.png)](https://labex.io/courses/supervised-learning-classification)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/supervised-learning-classification)
 
@@ -16,7 +16,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                    | Difficulty   | Practice                                                                                                                      |
-|---------|---------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                      |
+|---------|----------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Logistic Regression Classification with Scikit-Lea... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-logistic-regression-classification-with-scikit-learn-20800'>Start Lab</a>   |
 |      02 | 📖 K Nearest Neighbor Algorithm                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-k-nearest-neighbor-algorithm-20796'>Start Lab</a>                           |
 |      03 | 📖 Probabilistic Classification with Naive Bayes         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-probabilistic-classification-with-naive-bayes-20801'>Start Lab</a>          |
