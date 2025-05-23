@@ -32,20 +32,20 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                                |
 |---------|----------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Logistische Regression-Klassifizierung mit Scikit-... | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-logistic-regression-classification-with-scikit-learn-20800'>Labor Starten</a>   |
-|      02 | 📖 Algorithmus der k-nearest neighbors                   | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-k-nearest-neighbor-algorithm-20796'>Labor Starten</a>                           |
-|      03 | 📖 Wahrscheinlichkeitstheoretische Klassifikation mit... | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-probabilistic-classification-with-naive-bayes-20801'>Labor Starten</a>          |
-|      04 | 📖 Implementierung der Gaußschen Verteilungsfunktion ... | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/implementation-of-gaussian-distribution-function-and-draw-20786'>Labor Starten</a> |
-|      05 | 📖 Nichtlineare Mustererkennungstechniken                | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-nonlinear-pattern-recognition-techniques-20812'>Labor Starten</a>               |
-|      06 | 📖 Perzeptrons und künstliche neuronale Netze            | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-perceptron-and-artificial-neural-network-20802'>Labor Starten</a>               |
-|      07 | 📖 Trainieren des neuronalen Netzes zur Erkennung von... | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-train-handwritten-digits-recognition-neural-network-20814'>Labor Starten</a>    |
-|      08 | 📖 Entscheidungsbaumklassifizierung mit Python           | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-decision-tree-classification-with-python-20760'>Labor Starten</a>               |
-|      09 | 📖 Bagging- und Boosting-Verfahren                       | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-bagging-and-boosting-method-20749'>Labor Starten</a>                            |
-|      10 | 📖 Schnell Modelle mit Kreuzvalidierung auswählen        | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/ml-quickly-select-models-with-cross-validation-20807'>Labor Starten</a>            |
+|      01 | 📖 Logistische Regression-Klassifizierung mit Scikit-... | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-logistic-regression-classification-with-scikit-learn-20800'>Labor Starten</a>   |
+|      02 | 📖 Algorithmus der k-nearest neighbors                   | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-k-nearest-neighbor-algorithm-20796'>Labor Starten</a>                           |
+|      03 | 📖 Wahrscheinlichkeitstheoretische Klassifikation mit... | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-probabilistic-classification-with-naive-bayes-20801'>Labor Starten</a>          |
+|      04 | 📖 Implementierung der Gaußschen Verteilungsfunktion ... | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/implementation-of-gaussian-distribution-function-and-draw-20786'>Labor Starten</a> |
+|      05 | 📖 Nichtlineare Mustererkennungstechniken                | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-nonlinear-pattern-recognition-techniques-20812'>Labor Starten</a>               |
+|      06 | 📖 Perzeptrons und künstliche neuronale Netze            | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-perceptron-and-artificial-neural-network-20802'>Labor Starten</a>               |
+|      07 | 📖 Trainieren des neuronalen Netzes zur Erkennung von... | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-train-handwritten-digits-recognition-neural-network-20814'>Labor Starten</a>    |
+|      08 | 📖 Entscheidungsbaumklassifizierung mit Python           | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-decision-tree-classification-with-python-20760'>Labor Starten</a>               |
+|      09 | 📖 Bagging- und Boosting-Verfahren                       | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-bagging-and-boosting-method-20749'>Labor Starten</a>                            |
+|      10 | 📖 Schnell Modelle mit Kreuzvalidierung auswählen        | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/ml-quickly-select-models-with-cross-validation-20807'>Labor Starten</a>            |
 
 ## Mehr
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Kostenlose Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
