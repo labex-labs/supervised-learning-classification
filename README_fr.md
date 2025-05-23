@@ -32,20 +32,20 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                                |
 |---------|----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Classification par régression logistique avec Scik... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/labs/ml-logistic-regression-classification-with-scikit-learn-20800'>Commencer le Lab</a>   |
-|      02 | 📖 Algorithme des K plus proches voisins                 | ★☆☆          | <a target='_blank' href='https://labex.io/fr/labs/ml-k-nearest-neighbor-algorithm-20796'>Commencer le Lab</a>                           |
-|      03 | 📖 Classification probabiliste avec le Bayésien naïf     | ★☆☆          | <a target='_blank' href='https://labex.io/fr/labs/ml-probabilistic-classification-with-naive-bayes-20801'>Commencer le Lab</a>          |
-|      04 | 📖 Implémentation de la fonction de distribution gaus... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/labs/implementation-of-gaussian-distribution-function-and-draw-20786'>Commencer le Lab</a> |
-|      05 | 📖 Techniques de reconnaissance de motifs non linéair... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/labs/ml-nonlinear-pattern-recognition-techniques-20812'>Commencer le Lab</a>               |
-|      06 | 📖 Perceptron et Réseau de Neurones Artificiel           | ★☆☆          | <a target='_blank' href='https://labex.io/fr/labs/ml-perceptron-and-artificial-neural-network-20802'>Commencer le Lab</a>               |
-|      07 | 📖 Entraîner le réseau de neurones de reconnaissance ... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/labs/ml-train-handwritten-digits-recognition-neural-network-20814'>Commencer le Lab</a>    |
-|      08 | 📖 Classification par arbre de décision avec Python      | ★☆☆          | <a target='_blank' href='https://labex.io/fr/labs/ml-decision-tree-classification-with-python-20760'>Commencer le Lab</a>               |
-|      09 | 📖 Méthode Bagging et Boosting                           | ★☆☆          | <a target='_blank' href='https://labex.io/fr/labs/ml-bagging-and-boosting-method-20749'>Commencer le Lab</a>                            |
-|      10 | 📖 Sélectionner rapidement des modèles avec la valida... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/labs/ml-quickly-select-models-with-cross-validation-20807'>Commencer le Lab</a>            |
+|      01 | 📖 Classification par régression logistique avec Scik... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-logistic-regression-classification-with-scikit-learn-20800'>Commencer le Lab</a>   |
+|      02 | 📖 Algorithme des K plus proches voisins                 | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-k-nearest-neighbor-algorithm-20796'>Commencer le Lab</a>                           |
+|      03 | 📖 Classification probabiliste avec le Bayésien naïf     | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-probabilistic-classification-with-naive-bayes-20801'>Commencer le Lab</a>          |
+|      04 | 📖 Implémentation de la fonction de distribution gaus... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/implementation-of-gaussian-distribution-function-and-draw-20786'>Commencer le Lab</a> |
+|      05 | 📖 Techniques de reconnaissance de motifs non linéair... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-nonlinear-pattern-recognition-techniques-20812'>Commencer le Lab</a>               |
+|      06 | 📖 Perceptron et Réseau de Neurones Artificiel           | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-perceptron-and-artificial-neural-network-20802'>Commencer le Lab</a>               |
+|      07 | 📖 Entraîner le réseau de neurones de reconnaissance ... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-train-handwritten-digits-recognition-neural-network-20814'>Commencer le Lab</a>    |
+|      08 | 📖 Classification par arbre de décision avec Python      | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-decision-tree-classification-with-python-20760'>Commencer le Lab</a>               |
+|      09 | 📖 Méthode Bagging et Boosting                           | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-bagging-and-boosting-method-20749'>Commencer le Lab</a>                            |
+|      10 | 📖 Sélectionner rapidement des modèles avec la valida... | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/ml-quickly-select-models-with-cross-validation-20807'>Commencer le Lab</a>            |
 
 ## Plus
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning Tutoriels Gratuits](https://github.com/labex-labs/ml-free-tutorials)
 
