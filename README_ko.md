@@ -32,20 +32,20 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                                     | 난이도   | 연습                                                                                                                             |
 |----------|----------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Scikit-Learn 을 이용한 로지스틱 회귀 분류             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-logistic-regression-classification-with-scikit-learn-20800'>실습 시작</a>   |
-|       02 | 📖 K-최근접 이웃 알고리즘                                | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-k-nearest-neighbor-algorithm-20796'>실습 시작</a>                           |
-|       03 | 📖 나이브 베이즈를 이용한 확률적 분류                    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-probabilistic-classification-with-naive-bayes-20801'>실습 시작</a>          |
-|       04 | 📖 가우시안 분포 함수 구현 및 그리기                     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/implementation-of-gaussian-distribution-function-and-draw-20786'>실습 시작</a> |
-|       05 | 📖 Nonlinear Pattern Recognition Techniques              | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-nonlinear-pattern-recognition-techniques-20812'>실습 시작</a>               |
-|       06 | 📖 퍼셉트론 (Perceptron) 과 인공 신경망                  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-perceptron-and-artificial-neural-network-20802'>실습 시작</a>               |
-|       07 | 📖 Train Handwritten Digits Recognition Neural Networ... | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-train-handwritten-digits-recognition-neural-network-20814'>실습 시작</a>    |
-|       08 | 📖 파이썬을 활용한 의사 결정 트리 분류                   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-decision-tree-classification-with-python-20760'>실습 시작</a>               |
-|       09 | 📖 Bagging 및 Boosting 방법                              | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-bagging-and-boosting-method-20749'>실습 시작</a>                            |
-|       10 | 📖 Quickly Select Models with Cross Validation           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/ml-quickly-select-models-with-cross-validation-20807'>실습 시작</a>            |
+|       01 | 📖 Scikit-Learn 을 이용한 로지스틱 회귀 분류             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-logistic-regression-classification-with-scikit-learn-20800'>실습 시작</a>   |
+|       02 | 📖 K-최근접 이웃 알고리즘                                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-k-nearest-neighbor-algorithm-20796'>실습 시작</a>                           |
+|       03 | 📖 나이브 베이즈를 이용한 확률적 분류                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-probabilistic-classification-with-naive-bayes-20801'>실습 시작</a>          |
+|       04 | 📖 가우시안 분포 함수 구현 및 그리기                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/implementation-of-gaussian-distribution-function-and-draw-20786'>실습 시작</a> |
+|       05 | 📖 Nonlinear Pattern Recognition Techniques              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-nonlinear-pattern-recognition-techniques-20812'>실습 시작</a>               |
+|       06 | 📖 퍼셉트론 (Perceptron) 과 인공 신경망                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-perceptron-and-artificial-neural-network-20802'>실습 시작</a>               |
+|       07 | 📖 Train Handwritten Digits Recognition Neural Networ... | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-train-handwritten-digits-recognition-neural-network-20814'>실습 시작</a>    |
+|       08 | 📖 파이썬을 활용한 의사 결정 트리 분류                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-decision-tree-classification-with-python-20760'>실습 시작</a>               |
+|       09 | 📖 Bagging 및 Boosting 방법                              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-bagging-and-boosting-method-20749'>실습 시작</a>                            |
+|       10 | 📖 Quickly Select Models with Cross Validation           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/ml-quickly-select-models-with-cross-validation-20807'>실습 시작</a>            |
 
 ## 더 보기
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 무료 튜토리얼](https://github.com/labex-labs/ml-free-tutorials)
 
