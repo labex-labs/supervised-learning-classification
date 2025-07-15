@@ -14,6 +14,21 @@ Durante este curso, continuaremos aprendiendo otra aplicación importante en el 
 ![Machine-Learning](https://img.shields.io/badge/Machine-Learning-whitesmoke?style=for-the-badge&logo=machine-learning)
 
 
+## Ejercicios
+
+|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                   |
+|----------|-------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Clasificación de Regresión Logística con Scikit-Le... | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-logistic-regression-classification-with-scikit-learn-20800'>Iniciar Laboratorio</a>   |
+|       02 | 📖 🟢 Algoritmo de los k Vecinos Más Cercanos               | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-k-nearest-neighbor-algorithm-20796'>Iniciar Laboratorio</a>                           |
+|       03 | 📖 🟢 Clasificación Probabilística con Bayesiano Ingenuo    | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-probabilistic-classification-with-naive-bayes-20801'>Iniciar Laboratorio</a>          |
+|       04 | 📖 🔵 Implementación de la función de distribución gauss... | Principiante | <a target='_blank' href='https://labex.io/es/labs/implementation-of-gaussian-distribution-function-and-draw-20786'>Iniciar Laboratorio</a> |
+|       05 | 📖 🔵 Técnicas de Reconocimiento de Patrones No Lineales    | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-nonlinear-pattern-recognition-techniques-20812'>Iniciar Laboratorio</a>               |
+|       06 | 📖 🔵 Perceptrón y Red Neuronal Artificial                  | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-perceptron-and-artificial-neural-network-20802'>Iniciar Laboratorio</a>               |
+|       07 | 📖 🔵 Entrenar la red neuronal de reconocimiento de dígi... | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-train-handwritten-digits-recognition-neural-network-20814'>Iniciar Laboratorio</a>    |
+|       08 | 📖 🔵 Clasificación de árboles de decisión con Python       | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-decision-tree-classification-with-python-20760'>Iniciar Laboratorio</a>               |
+|       09 | 📖 🔵 Método Bagging y Boosting                             | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-bagging-and-boosting-method-20749'>Iniciar Laboratorio</a>                            |
+|       10 | 📖 🔵 Selecciona modelos rápidamente con validación cruz... | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-quickly-select-models-with-cross-validation-20807'>Iniciar Laboratorio</a>            |
+
 ## Entorno
 
 LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
@@ -24,24 +39,9 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
 - Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
 - Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje de IA Labby, construido sobre ChatGPT, que proporciona una experiencia de aprendizaje conversacional.
+- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                                   |
-|----------|----------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Clasificación de Regresión Logística con Scikit-Le... | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-logistic-regression-classification-with-scikit-learn-20800'>Iniciar Laboratorio</a>   |
-|       02 | 📖 Algoritmo de los k Vecinos Más Cercanos               | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-k-nearest-neighbor-algorithm-20796'>Iniciar Laboratorio</a>                           |
-|       03 | 📖 Clasificación Probabilística con Bayesiano Ingenuo    | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-probabilistic-classification-with-naive-bayes-20801'>Iniciar Laboratorio</a>          |
-|       04 | 📖 Implementación de la función de distribución gauss... | Principiante | <a target='_blank' href='https://labex.io/es/labs/implementation-of-gaussian-distribution-function-and-draw-20786'>Iniciar Laboratorio</a> |
-|       05 | 📖 Técnicas de Reconocimiento de Patrones No Lineales    | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-nonlinear-pattern-recognition-techniques-20812'>Iniciar Laboratorio</a>               |
-|       06 | 📖 Perceptrón y Red Neuronal Artificial                  | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-perceptron-and-artificial-neural-network-20802'>Iniciar Laboratorio</a>               |
-|       07 | 📖 Entrenar la red neuronal de reconocimiento de dígi... | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-train-handwritten-digits-recognition-neural-network-20814'>Iniciar Laboratorio</a>    |
-|       08 | 📖 Clasificación de árboles de decisión con Python       | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-decision-tree-classification-with-python-20760'>Iniciar Laboratorio</a>               |
-|       09 | 📖 Método Bagging y Boosting                             | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-bagging-and-boosting-method-20749'>Iniciar Laboratorio</a>                            |
-|       10 | 📖 Selecciona modelos rápidamente con validación cruz... | Principiante | <a target='_blank' href='https://labex.io/es/labs/ml-quickly-select-models-with-cross-validation-20807'>Iniciar Laboratorio</a>            |
 
 ## Más
 
