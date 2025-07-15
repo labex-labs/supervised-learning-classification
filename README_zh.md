@@ -14,6 +14,21 @@
 ![Machine-Learning](https://img.shields.io/badge/Machine-Learning-whitesmoke?style=for-the-badge&logo=machine-learning)
 
 
+## 练习
+
+|   序号 | 名称                                     | 难度   | 练习                                                                                                                            |
+|--------|------------------------------------------|--------|---------------------------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 🟢 使用 Scikit-Learn 进行逻辑回归分类 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-logistic-regression-classification-with-scikit-learn-20800'>开始实验</a>   |
+|     02 | 📖 🟢 K 近邻算法                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-k-nearest-neighbor-algorithm-20796'>开始实验</a>                           |
+|     03 | 📖 🟢 使用朴素贝叶斯进行概率分类         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-probabilistic-classification-with-naive-bayes-20801'>开始实验</a>          |
+|     04 | 📖 🔵 高斯分布函数的实现与绘图           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/implementation-of-gaussian-distribution-function-and-draw-20786'>开始实验</a> |
+|     05 | 📖 🔵 非线性模式识别技术                 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-nonlinear-pattern-recognition-techniques-20812'>开始实验</a>               |
+|     06 | 📖 🔵 感知机与人工神经网络               | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-perceptron-and-artificial-neural-network-20802'>开始实验</a>               |
+|     07 | 📖 🔵 训练手写数字识别神经网络           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-train-handwritten-digits-recognition-neural-network-20814'>开始实验</a>    |
+|     08 | 📖 🔵 使用 Python 进行决策树分类         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-decision-tree-classification-with-python-20760'>开始实验</a>               |
+|     09 | 📖 🔵 Bagging 和 Boosting 方法           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-bagging-and-boosting-method-20749'>开始实验</a>                            |
+|     10 | 📖 🔵 使用交叉验证快速选择模型           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-quickly-select-models-with-cross-validation-20807'>开始实验</a>            |
+
 ## 学习环境
 
 LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。
@@ -24,24 +39,9 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 浏览器内的交互式在线环境，具有自动化的逐步检查。
 - 基于技能树的结构化内容组织系统。
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
-- 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
+- 基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 练习
-
-|   序号 | 名称                                  | 难度   | 练习                                                                                                                            |
-|--------|---------------------------------------|--------|---------------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 使用 Scikit-Learn 进行逻辑回归分类 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-logistic-regression-classification-with-scikit-learn-20800'>开始实验</a>   |
-|     02 | 📖 K 近邻算法                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-k-nearest-neighbor-algorithm-20796'>开始实验</a>                           |
-|     03 | 📖 使用朴素贝叶斯进行概率分类         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-probabilistic-classification-with-naive-bayes-20801'>开始实验</a>          |
-|     04 | 📖 高斯分布函数的实现与绘图           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/implementation-of-gaussian-distribution-function-and-draw-20786'>开始实验</a> |
-|     05 | 📖 非线性模式识别技术                 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-nonlinear-pattern-recognition-techniques-20812'>开始实验</a>               |
-|     06 | 📖 感知机与人工神经网络               | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-perceptron-and-artificial-neural-network-20802'>开始实验</a>               |
-|     07 | 📖 训练手写数字识别神经网络           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-train-handwritten-digits-recognition-neural-network-20814'>开始实验</a>    |
-|     08 | 📖 使用 Python 进行决策树分类         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-decision-tree-classification-with-python-20760'>开始实验</a>               |
-|     09 | 📖 Bagging 和 Boosting 方法           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-bagging-and-boosting-method-20749'>开始实验</a>                            |
-|     10 | 📖 使用交叉验证快速选择模型           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/ml-quickly-select-models-with-cross-validation-20807'>开始实验</a>            |
 
 ## 更多
 
